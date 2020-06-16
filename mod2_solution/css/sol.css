@@ -3,24 +3,6 @@
     text-align: center;
 }
 
-#main {
-    /* display: table; */
-    /* table-layout: fixed; */
-    /* width: 100%; */
-}
-
-#section-a {
-    /* display: table-cell; */
-}
-
-#section-b {
-    /* display: table-cell; */
-}
-
-#section-c {
-    /* display: table-cell; */
-}
-
 .sec {
     float: left;
     width: 29%;
